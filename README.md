@@ -1,4 +1,4 @@
-### <center> Dmitry Kokurin </center> 
+### <center> I am Dmitry Kokurin </center> 
 
 - 🎓 MIET Student (Software Engineering)
 - 🌱 I’m currently learning Django Framework, Solidity, React.js
